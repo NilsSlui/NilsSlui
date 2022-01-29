@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My past week: (Wakatime plugin)
+My past week: (WakaTime plugin)
 <!--START_SECTION:waka-->
 ```text
 PHP              23 hrs 28 mins  ██████████████████░░░░░░░   71.72 % 
