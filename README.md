@@ -3,8 +3,10 @@
 My past week: (WakaTime plugin)
 <!--START_SECTION:waka-->
 ```text
-PHP          29 hrs 6 mins   ████████████████████████▓   98.40 % 
-Python       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-JavaScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Total: 24 hrs 36 mins
+
+PHP          24 hrs 8 mins   ████████████████████████▓   98.07 % 
+Python       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+JavaScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
