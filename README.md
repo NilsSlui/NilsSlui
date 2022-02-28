@@ -2,7 +2,9 @@
 
 My past week: (WakaTime plugin)
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
